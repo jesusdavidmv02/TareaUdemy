@@ -14,19 +14,14 @@ Publique acá su código fuente de la tarea, solo la clase main, recuerde probar
 
 package StringClass;
 import java.util.Scanner;
-
 public class ProgramaManejoDeNombres {
-
     public static  void main(String[] args) {
-
         String nombre [] = new String[3];
         Scanner sc = new Scanner(System.in);
-
         for (int i = 0; i < nombre.length ; i++) {
             System.out.println("dijite el " + i +" nombre : " );
             nombre[i] = sc.nextLine();
         }
-
         String newName = "";
 
         for (int i = 0; i < nombre.length; i++) {
@@ -38,6 +33,5 @@ public class ProgramaManejoDeNombres {
         }
         System.out.println("el Resusltado es : ");
         System.out.println(newName);
-
     }
 }
