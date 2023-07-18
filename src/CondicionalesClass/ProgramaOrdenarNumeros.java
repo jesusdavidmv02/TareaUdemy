@@ -1,4 +1,5 @@
 package CondicionalesClass;
+
 import java.util.Scanner;
 
 public class ProgramaOrdenarNumeros {
@@ -12,9 +13,10 @@ public class ProgramaOrdenarNumeros {
 
         System.out.println("digite el segundo numero ");
         int num2 = sc.nextInt();
-        
+
         String resultado = (num1 > num2) ? num1 + " y " + num2 : num2 + " y " + num1;
-        
+
+
         System.out.println("resultado = " + resultado);
 
     }
