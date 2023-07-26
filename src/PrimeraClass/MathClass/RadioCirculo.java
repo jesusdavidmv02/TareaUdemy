@@ -6,7 +6,7 @@ Preguntas de esta tarea
 Cuál es el código de tu clase main con la solución de la tarea*/
 
 
-package MathClass;
+package PrimeraClass.MathClass;
 
 import java.util.Scanner;
 

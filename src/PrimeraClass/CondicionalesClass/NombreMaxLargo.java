@@ -1,4 +1,4 @@
-package CondicionalesClass;
+package PrimeraClass.CondicionalesClass;
 
 import javax.swing.*;
 

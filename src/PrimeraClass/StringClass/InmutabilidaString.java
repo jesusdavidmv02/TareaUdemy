@@ -1,4 +1,4 @@
-package StringClass;
+package PrimeraClass.StringClass;
 
 public class InmutabilidaString {
 

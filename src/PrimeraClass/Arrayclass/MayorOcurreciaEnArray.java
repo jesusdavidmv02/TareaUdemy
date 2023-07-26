@@ -1,4 +1,4 @@
-package Arrayclass;
+package PrimeraClass.Arrayclass;
 import java.util.Scanner;
 
 public class MayorOcurreciaEnArray {

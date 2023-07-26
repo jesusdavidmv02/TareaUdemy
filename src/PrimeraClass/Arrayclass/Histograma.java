@@ -1,7 +1,6 @@
-package Arrayclass;
+package PrimeraClass.Arrayclass;
 
 import java.util.HashMap;
-import java.util.Scanner;
 
 public class Histograma {
 

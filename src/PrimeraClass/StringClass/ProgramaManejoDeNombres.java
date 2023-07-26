@@ -12,7 +12,7 @@ N.es_A.ia_E.pe
 Preguntas de esta tarea
 Publique acá su código fuente de la tarea, solo la clase main, recuerde probarlo antes en su IDE.*/
 
-package StringClass;
+package PrimeraClass.StringClass;
 import java.util.Scanner;
 
 public class ProgramaManejoDeNombres {

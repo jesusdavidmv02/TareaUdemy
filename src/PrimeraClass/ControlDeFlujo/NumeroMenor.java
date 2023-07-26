@@ -8,7 +8,7 @@ Preguntas de esta tarea
 Pega acá tu código de la clase main, no sin antes de haberlo ejecutado en tu IDE.*/
 
 
-package ControlDeFlujo;
+package PrimeraClass.ControlDeFlujo;
 
 import java.util.Scanner;
 
