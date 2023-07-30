@@ -1,4 +1,4 @@
-package PrimeraClass.ControlDeFlujo;
+package ClaseBasicas.ControlDeFlujo;
 
 
 import java.util.HashMap;

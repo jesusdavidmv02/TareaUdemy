@@ -1,4 +1,4 @@
-package PrimeraClass.Arrayclass;
+package ClaseBasicas.Arrayclass;
 import java.util.Scanner;
 public class NumeroMayorArray {
     public static void main(String[] args) {

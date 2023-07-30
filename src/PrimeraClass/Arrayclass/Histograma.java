@@ -1,4 +1,4 @@
-package PrimeraClass.Arrayclass;
+package ClaseBasicas.Arrayclass;
 
 import java.util.HashMap;
 

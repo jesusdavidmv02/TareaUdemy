@@ -1,4 +1,4 @@
-package PrimeraClass.CondicionalesClass;
+package ClaseBasicas.CondicionalesClass;
 /*
 Suponiendo un estanque de gasolina (gas) con capacidad 70 litros, se requiere un programa que pida la medida actual
 en litros y mostrar el resultado de la forma: Insuficiente, Suficiente, Medio...

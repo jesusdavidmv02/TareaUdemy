@@ -4,7 +4,7 @@ tener en cuenta los unarios, donde menos por menos es positivo.
 Preguntas de esta tarea
 Publica acá tu código fuente con la clase Main completa.*/
 
-package PrimeraClass.ControlDeFlujo;
+package ClaseBasicas.ControlDeFlujo;
 import java.util.Scanner;
 
 public class NumeroPositivoNegativo {

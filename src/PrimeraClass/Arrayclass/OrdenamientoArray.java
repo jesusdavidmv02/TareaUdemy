@@ -2,7 +2,7 @@
  * el siguiente orden: el último, el primero, el penúltimo, el segundo, el antepenúltimo, el tercero, y así sucesivamente.
  Preguntas de esta tarea
  Cual es tu código fuente, envíalo acá*/
-package PrimeraClass.Arrayclass;
+package ClaseBasicas.Arrayclass;
 
 import java.util.Scanner;
 

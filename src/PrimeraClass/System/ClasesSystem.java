@@ -1,4 +1,4 @@
-package PrimeraClass.System;
+package ClaseBasicas.System;
 
 import java.util.Properties;
 

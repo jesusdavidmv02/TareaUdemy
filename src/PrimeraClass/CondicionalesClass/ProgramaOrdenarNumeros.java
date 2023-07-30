@@ -1,4 +1,4 @@
-package PrimeraClass.CondicionalesClass;
+package ClaseBasicas.CondicionalesClass;
 
 import java.util.Scanner;
 

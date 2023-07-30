@@ -5,7 +5,7 @@
  * Cuál es tu código fuente de la tarea
  */
 
-package PrimeraClass.Arrayclass;
+package ClaseBasicas.Arrayclass;
 
 import java.util.Scanner;
 

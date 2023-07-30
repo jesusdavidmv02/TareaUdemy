@@ -6,7 +6,7 @@ Preguntas de esta tarea
 Cuál es el código de tu solución, publicala acá mismo*/
 
 
-package PrimeraClass.FechaJava;
+package ClaseBasicas.FechaJava;
 
 import java.time.LocalDate;
 import java.time.Period;

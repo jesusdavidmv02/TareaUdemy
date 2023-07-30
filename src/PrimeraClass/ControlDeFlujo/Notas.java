@@ -9,7 +9,7 @@ Preguntas de esta tarea
 Cuál es el código de la clase main de la tarea
 */
 
-package PrimeraClass.ControlDeFlujo;
+package ClaseBasicas.ControlDeFlujo;
 
 import java.util.Scanner;
 
